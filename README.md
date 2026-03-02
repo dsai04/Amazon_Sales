@@ -38,13 +38,6 @@ Certain categories dominated review volume and customer engagement.
 
 Pricing strategies varied significantly across product groups.
 
-📁 Files Included
-
-Jupyter Notebook (.ipynb)
-
-Dataset (CSV)
-
-Visualization Outputs
 
 🎯 Skills Demonstrated
 
