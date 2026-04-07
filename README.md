@@ -1,54 +1,47 @@
-Amazon Sales Data Analysis | Exploratory Data Analysis (EDA)
+# Amazon Sales Data Analysis
 
-This project involves exploratory data analysis (EDA) of a structured dataset containing 1,465 records and 16 features related to product pricing, ratings, and discounts.
+## Overview
 
-📌 Project Objective
+This project analyzes Amazon sales data to uncover product performance trends, pricing behavior, and customer engagement patterns. The analysis focuses on cleaning raw transactional data and deriving actionable insights to support business decision-making.
 
-To analyze product performance, discount strategies, and customer engagement metrics to extract business insights and evaluate pricing impact.
+## Key Insights
 
-🛠 Tools & Technologies
+* Cleaned and processed **1,400+ sales records**, resolving missing values, currency inconsistencies, and non-numeric anomalies to create an analysis-ready dataset
+* Identified **top-performing product categories** based on customer ratings and review volume, highlighting high-demand segments
+* Analyzed the relationship between **discount percentage and customer ratings**, revealing pricing strategies and their impact on customer perception
+* Observed variability in pricing and ratings across categories, indicating opportunities for optimized discounting and product positioning
 
-Python
+## Analysis Features
 
-Pandas
+* Data cleaning and preprocessing (handling nulls, type conversion, formatting)
+* Exploratory Data Analysis (EDA)
+* Correlation analysis between pricing and ratings
+* Visualization of trends using scatter plots and category-level comparisons
 
-NumPy
+## Tools & Technologies
 
-Matplotlib
+* Python (Pandas, NumPy)
+* Matplotlib
+* Jupyter Notebook
+* SQL (for querying and aggregation, if applicable)
 
-Jupyter Notebook
+## Project Output
 
-🔍 Analysis Performed
+* Cleaned dataset ready for analysis
+* Visualizations highlighting pricing vs rating trends
+* Insights to support pricing and product strategy decisions
 
-Data cleaning and preprocessing (handling missing values, formatting, transformations)
+## Files Included
 
-Identification of the Top 10 highest-rated categories
+* Jupyter Notebook (`.ipynb`)
+* Dataset (if permissible)
+* Output visualizations
 
-Analysis of Top 10 most reviewed products
+## Business Impact
 
-Evaluation of discount percentage trends across categories
+This analysis enables stakeholders to:
 
-Assessment of the relationship between discounted price and product ratings
-
-📈 Key Insights
-
-Heavily discounted products did not consistently show improved ratings.
-
-Certain categories dominated review volume and customer engagement.
-
-Pricing strategies varied significantly across product groups.
-
-
-🎯 Skills Demonstrated
-
-Data Cleaning & Transformation
-
-Exploratory Data Analysis (EDA)
-
-KPI Identification
-
-Correlation-Based Analysis
-
-Data Visualization
-
-Business Insight Generation
+* Identify high-performing product categories
+* Optimize discount strategies based on customer response
+* Improve product positioning using rating and review insights
+* Make data-driven pricing decisions
