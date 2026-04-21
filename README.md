@@ -34,8 +34,7 @@ This project analyzes Amazon sales data to uncover product performance trends, p
 ## Files Included
 
 * Jupyter Notebook (`.ipynb`)
-* Dataset (if permissible)
-* Output visualizations
+* Dataset
 
 ## Business Impact
 
